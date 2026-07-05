@@ -1,0 +1,19 @@
+okf_version: 0.1
+title: "rEach podcast OKF source"
+description: "GitHub-ready Open Knowledge Format source bundle for the podcast series 'Die Laternenhüter des Stillen Tals'."
+language: de
+publisher: "sar"
+root: "OKF"
+entrypoints:
+  - "OKF/index.md"
+bundles:
+  - id: "okf-podcast-laternenhueter-serie"
+    path: "OKF/Podcast/Laternenhüter_des_Stillen_Tals"
+    index: "OKF/Podcast/Laternenhüter_des_Stillen_Tals/index.md"
+    assets:
+      cover: "images/seriencover.png"
+      episodes:
+        1: "images/cover_episode_1.png"
+        2: "images/cover_episode_2.png"
+        3: "images/cover_episode_3.png"
+        4: "images/cover_episode_4.png"
