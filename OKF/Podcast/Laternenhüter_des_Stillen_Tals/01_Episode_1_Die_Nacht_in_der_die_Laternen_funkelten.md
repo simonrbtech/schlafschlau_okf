@@ -15,7 +15,7 @@ title: "Die Nacht, in der die Laternen funkelten"
 draft: false
 date: 2026-07-05
 aliases:
-	- "Episode 1 – Die Nacht, in der die Laternen funkelten"
+  - "Episode 1 – Die Nacht, in der die Laternen funkelten"
 next: "02_Episode_2_Der_Wald_der_tanzenden_Nadeln.md"
 ---
 

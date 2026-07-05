@@ -14,7 +14,7 @@ title: "Warum diese Struktur funktioniert"
 draft: false
 date: 2026-07-05
 aliases:
-	- "Didaktische Begründung"
+  - "Didaktische Begründung"
 ---
 
 # Warum diese Struktur funktioniert

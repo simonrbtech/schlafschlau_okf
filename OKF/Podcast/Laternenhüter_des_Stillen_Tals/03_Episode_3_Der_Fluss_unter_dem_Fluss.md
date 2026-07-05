@@ -15,7 +15,7 @@ title: "Der Fluss unter dem Fluss"
 draft: false
 date: 2026-07-05
 aliases:
-	- "Episode 3 – Der Fluss unter dem Fluss"
+  - "Episode 3 – Der Fluss unter dem Fluss"
 prev: "02_Episode_2_Der_Wald_der_tanzenden_Nadeln.md"
 next: "04_Episode_4_Das_Meer_des_Sternenlichts.md"
 ---

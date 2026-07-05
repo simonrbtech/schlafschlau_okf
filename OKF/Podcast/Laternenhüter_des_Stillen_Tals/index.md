@@ -9,7 +9,7 @@ timestamp: 2026-07-05T00:00:00Z
 draft: false
 date: 2026-07-05
 aliases:
-	- "Die Laternenhüter des Stillen Tals"
+  - "Die Laternenhüter des Stillen Tals"
 ---
 
 # Index – Die Laternenhüter des Stillen Tals

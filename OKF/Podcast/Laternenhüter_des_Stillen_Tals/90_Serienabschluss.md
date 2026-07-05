@@ -14,7 +14,7 @@ title: "Serienabschluss"
 draft: false
 date: 2026-07-05
 aliases:
-	- "Finale"
+  - "Finale"
 ---
 
 # Serienabschluss

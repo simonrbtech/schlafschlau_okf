@@ -15,7 +15,7 @@ title: "Der Wald der tanzenden Nadeln"
 draft: false
 date: 2026-07-05
 aliases:
-	- "Episode 2 – Der Wald der tanzenden Nadeln"
+  - "Episode 2 – Der Wald der tanzenden Nadeln"
 prev: "01_Episode_1_Die_Nacht_in_der_die_Laternen_funkelten.md"
 next: "03_Episode_3_Der_Fluss_unter_dem_Fluss.md"
 ---

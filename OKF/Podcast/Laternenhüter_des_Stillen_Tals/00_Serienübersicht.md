@@ -13,7 +13,7 @@ title: "Die Laternenhüter des Stillen Tals: Eine schläfrige Reise durch den El
 draft: false
 date: 2026-07-05
 aliases:
-	- "Laternenhüter des Stillen Tals"
+  - "Laternenhüter des Stillen Tals"
 ---
 
 # Die Laternenhüter des Stillen Tals

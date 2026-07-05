@@ -15,7 +15,7 @@ title: "Das Meer des Sternenlichts"
 draft: false
 date: 2026-07-05
 aliases:
-	- "Episode 4 – Das Meer des Sternenlichts"
+  - "Episode 4 – Das Meer des Sternenlichts"
 prev: "03_Episode_3_Der_Fluss_unter_dem_Fluss.md"
 next: "90_Serienabschluss.md"
 ---
