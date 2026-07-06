@@ -37,6 +37,7 @@ jobs:
           mkdir -p site/content
           cp -r OKF/* site/content/
           cp -r images site/content/images
+          cp -r audio site/content/audio
 
       - name: Build Quartz
         run: cd site && node ./quartz/bootstrap-cli.mjs build -d content -o public
