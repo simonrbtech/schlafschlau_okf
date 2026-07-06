@@ -1,0 +1,28 @@
+name: Export OKF Bundle
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  export_bundle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build bundle archive
+        run: |
+          mkdir -p dist
+          cp okf.yaml dist/okf.yaml
+          cp -r OKF dist/OKF
+          cp -r images dist/images
+          cd dist
+          zip -r okf-bundle.zip OKF images okf.yaml
+
+      - name: Upload bundle artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: okf-bundle
+          path: dist/okf-bundle.zip
